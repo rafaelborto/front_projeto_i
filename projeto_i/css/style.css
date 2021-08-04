@@ -1,7 +1,29 @@
-body {
-    color: white;
+body { background-color: hsl(233, 47%, 7%); display: inline;}
+
+.primeira-parte h1 {
+    color: hsl(0, 0%, 100%);
+    /* font-size: ; */
 }
+
+.main-paragraph { 
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px;
+}
+
+.numeros { color: white; font-weight: bold;
+}
+
+.cont { color: hsla(0, 0%, 100%, 0.6); text-transform: uppercase;}
+
+.primeira-parte {background-color: hsl(244, 38%, 16%); width: 50%; padding: 5%;}
+
+span {color: hsl(277, 64%, 61%); }
+
+.img-work{background-color: hsl(277, 64%, 61%);}
+
+.img {width: 50%; opacity: 0.2;}
 
 .attribution { font-size: 11px; text-align: center; }
 
 .attribution a { color: hsl(228, 45%, 44%); }
+
